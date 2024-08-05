@@ -1,0 +1,13 @@
+@media(min-width: 1400px){
+    .container{
+        max-width: 1120px;
+    }
+}
+@media(max-width: 1399.98px){
+    /*================================================
+                        index
+    ================================================*/
+    .offers-sec:after {
+        width: calc(100% + 79%);
+    }
+}
